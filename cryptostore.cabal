@@ -22,7 +22,7 @@ source-repository head
 flag use_crypton
   description: Use crypton instead of cryptonite
   manual: True
-  default: False
+  default: True
 
 library
   hs-source-dirs:      src
